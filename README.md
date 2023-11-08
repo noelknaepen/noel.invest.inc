@@ -1,2 +1,2 @@
 # noel.invest.inc
-expert advice with every wallet
+expert advice with every wallets 
